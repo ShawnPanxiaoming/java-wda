@@ -16,7 +16,6 @@ CyberWdaClient client = new CyberWdaClient("cfbdab10ffaa92fac93394d03c23e9b25976
 ```
 
 Go to Home
-if your wda server is listening on customized port,your can call it with your specific port
 ```
 client.home()
 ```
@@ -30,11 +29,14 @@ Click on coordinator
 client.click(100,100)
 ```
 
+Enjoy!
+
 ### About the result format
 I just output the result with the original wda response, you should serialize yourself according to your actual testing demand.
 
 
 ## Thanks 
 https://github.com/mogaleaf/java-usbmuxd
+
 https://github.com/openatx/facebook-wda
 

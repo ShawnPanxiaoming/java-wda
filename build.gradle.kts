@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "com.jd.testdev.cyber"
+group = "com.shawn.cyber"
 version = "1.3-SNAPSHOT"
 
 repositories {
